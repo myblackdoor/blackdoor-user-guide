@@ -30,13 +30,9 @@ Topics include but not limited to:
 
 ## Goals
 
-# 
+We should gave a bunch of awesome goals here
 
 ## 
-
-## 
-
-
 
 
 
