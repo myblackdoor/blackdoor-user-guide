@@ -30,7 +30,7 @@ Topics include but not limited to:
 
 ## Goals
 
-We should have a bunch of awesome goals here!
+We should have a bunch of awesome goals here! Maybe you have some too?
 
 ## 
 
