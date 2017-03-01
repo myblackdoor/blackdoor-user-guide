@@ -30,9 +30,10 @@ Topics include but not limited to:
 
 ## Goals
 
-We should have a bunch of awesome goals here! Maybe you have some too?
-
-## 
+1. Cultivate a safer space for free expression and personal exploration.
+2. Provide community operated tools to manage abuse at increasing levels of severity.
+3. Offer democratic decision making and democratic moderation as a way to manage conflict.
+4. Create, sustain, and maintain a community generated library and collection of resources that is available to creators and the public.
 
 
 
